@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OyuncuBul</string>
+    <string name="Ac">OyuncuBul</string>
+    <string name="Kapat">OyuncuBul</string>
+    <array name="mevki">
+        <item>Kaleci</item>
+        <item>Defans</item>
+        <item>Orta Saha</item>
+        <item>Forvet</item>
+
+    </array>
+    <array name="saatler">
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>24:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

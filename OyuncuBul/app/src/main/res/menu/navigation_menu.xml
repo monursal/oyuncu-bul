@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ProfileActivity"
+        android:title="Profilim"
+        android:icon="@drawable/ic_person_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/change"
+        android:title="Ayarlar"
+        android:icon="@drawable/ic_settings_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/teklif"
+        android:title="Teklif Yap"
+        android:icon="@drawable/ic_supervisor_account_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/haberler"
+        android:title="Haberler"
+        android:icon="@drawable/ic_info_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/sahalar"
+        android:title="Sahalar"
+        android:icon="@drawable/saha_icon">
+
+    </item>
+
+
+    <item
+        android:id="@+id/cikis"
+        android:title="Çıkış"
+        android:icon="@drawable/ic_exit_to_app_black_24dp">
+
+    </item>
+</menu>

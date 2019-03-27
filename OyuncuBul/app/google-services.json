@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "900354863796",
+    "firebase_url": "https://oyuncu-bul-51c7d.firebaseio.com",
+    "project_id": "oyuncu-bul-51c7d",
+    "storage_bucket": "oyuncu-bul-51c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900354863796:android:458cfe7af9d1f053",
+        "android_client_info": {
+          "package_name": "com.example.onur.oyuncubul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900354863796-d47pvqu7m1ckb0mug0hqjea85e3m2ic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI5Mpfw8VEl1TkrpU6mD89ePaRszTMGqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
